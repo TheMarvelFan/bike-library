@@ -127,3 +127,17 @@ src/
 
 - **SQLite Database**: If you encounter issues related to the SQLite database, make sure it’s installed and accessible on your system.
 - **Missing Dependencies**: Ensure that all dependencies are installed by running `npm install`.
+
+## Screenshots
+
+- **GET Request**:
+![Screenshot 2024-10-08 210627](https://github.com/user-attachments/assets/137e27cc-61f0-48ac-a5dd-c695a22f6403)
+
+- **POST Request**: 
+![Screenshot 2024-10-08 210753](https://github.com/user-attachments/assets/7b202d7b-564d-4511-a52e-c9523e984e3e)
+
+- **PUT Request**:
+![Screenshot 2024-10-08 210821](https://github.com/user-attachments/assets/79a3725a-98fb-4c56-8ec4-33d241bcb76d)
+
+- **DELETE Request**-
+![Screenshot 2024-10-08 210916](https://github.com/user-attachments/assets/fb6c8539-f9ec-4a80-a8a9-c67888e6b079)
